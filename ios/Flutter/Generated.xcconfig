@@ -1,0 +1,9 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=F:\book\AndroidDevelopmetKit\flutter_sdk\flutter
+FLUTTER_APPLICATION_PATH=F:\book\flutter_code_base\flutter_firebase_storage
+FLUTTER_TARGET=lib/main.dart
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build\ios
+FLUTTER_FRAMEWORK_DIR=F:\book\AndroidDevelopmetKit\flutter_sdk\flutter\bin\cache\artifacts\engine\ios
+FLUTTER_BUILD_NAME=1.0.0
+FLUTTER_BUILD_NUMBER=1

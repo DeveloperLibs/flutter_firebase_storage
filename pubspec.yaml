@@ -1,0 +1,26 @@
+name: flutter_firebase_storage
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  firebase_storage: ^1.0.4
+  image_picker_ui: ^0.1.2
+  firebase_database: ^1.0.5
+  transparent_image: ^0.1.0
+
+flutter:
+  uses-material-design: true
+
+
