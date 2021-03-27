@@ -2,6 +2,7 @@
 
 Flutter - Firebase cloud storage example. [Read me here](https://www.developerlibs.com/2018/12/flutter-firebase-cloud-storage-example.html)
 
+[Google Play Store](https://play.google.com/store/apps/details?id=com.devlibs.developerlibs) ,
 [YouTube](https://youtu.be/dt4HlORuT7Q&t=8s) ,
 [Facebook](https://www.facebook.com/developerlibs), 
 [G+](https://plus.google.com/109457600203481575432),
